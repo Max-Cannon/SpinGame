@@ -1,0 +1,2 @@
+# SpinGame
+GitHub Pages
